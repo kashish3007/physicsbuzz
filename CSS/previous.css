@@ -1,0 +1,22 @@
+table,td,th{
+    border : 5px solid black;
+}
+td,th{
+    padding : 5px;
+}
+table{
+    margin-top : 50px;
+}
+.navbar-brand{
+    text-decoration: none;
+    font-family:Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+h1,h2{
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+h1{
+    margin-bottom: 50px;
+}
+body{
+    background-color: #8DF8D2;
+}

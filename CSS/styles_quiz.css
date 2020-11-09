@@ -1,0 +1,25 @@
+body{
+    background-color: #8DF8D2;
+    background-size : 100% 100%;
+    height:100vh;
+    overflow: auto;
+    background-attachment: fixed;
+}
+form{
+    padding: 10px;
+    height:80%;
+    width : 85%;
+    background-color: #CAFBE8;
+    opacity:0.85;
+    border-radius: 10px;
+}
+.form-group{
+    line-height:2.5;
+}
+.question{
+    font-weight: bold;
+}
+.navbar-brand{
+    color : black !important;
+    font-family:'Pacifico',cursive;
+}

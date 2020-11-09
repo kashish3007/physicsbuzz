@@ -1,0 +1,17 @@
+#contact{
+  background-color: black;
+  color : white;
+}
+.pic{
+  width: 100px;
+  height: 100px;
+}
+.par{
+  background-color: #F0F8FF;
+  padding: 20px;
+}
+h1{
+  margin-top: 50px auto 0 auto;
+  margin-bottom: 0;
+  color: #1E90FF;
+}

@@ -1,0 +1,22 @@
+table,td,th{
+    border : 1px solid black;
+}
+td,th{
+    padding : 5px;
+    text-align: center;
+}
+.navbar-brand{
+    text-decoration: none;
+    font-family:Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+h1,h2{
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+h1{
+    margin-bottom: 50px;
+}
+html,body{
+    width:100%;
+    height:100%;
+    background-image: radial-gradient(circle, #a8eeca, #97efbd, #88efaf, #7aef9f, #6eef8d, #77f083, #81f179, #8bf26e, #a5f56d, #bcf76d, #d2fa70, #e6fc74);
+}

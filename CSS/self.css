@@ -1,0 +1,12 @@
+button{
+    height : 250px;
+}
+div.col-lg-4{
+    padding : 5px;
+}
+div.col-lg-4>a{
+    text-decoration: none;
+}
+body{
+    background-color: #8DF8D2;
+}

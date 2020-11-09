@@ -1,0 +1,55 @@
+html,body{
+    width:100%;
+    height:100%;
+    background-image: radial-gradient(circle, #a8eeca, #97efbd, #88efaf, #7aef9f, #6eef8d, #77f083, #81f179, #8bf26e, #a5f56d, #bcf76d, #d2fa70, #e6fc74);
+
+}
+.header-nav{
+    padding-top:20px;
+    background-image: radial-gradient(circle, #a8eeca, #97efbd, #88efaf, #7aef9f, #6eef8d, #77f083, #81f179, #8bf26e, #a5f56d, #bcf76d, #d2fa70, #e6fc74);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 45vh;
+}
+.content{
+    background-image: radial-gradient(circle, #a8eeca, #97efbd, #88efaf, #7aef9f, #6eef8d, #77f083, #81f179, #8bf26e, #a5f56d, #bcf76d, #d2fa70, #e6fc74);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 55vh;
+    overflow: auto;
+}
+@media(max-height:620px){
+    .header-nav,.content{
+        height:23rem;
+    }
+}
+.content-box>h1{
+    position:relative;
+    top:40px;
+    color:rgb(253, 250, 250);
+    font-family: 'Pacifico', cursive;
+    font-size:5rem;
+}
+
+#change-color{
+    color:black;
+}
+
+form{
+    margin-top:10px;
+    border:3px solid black;
+    border-radius:0.5rem;
+    padding:2%;
+}
+label{
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+span.alert{
+    color: red;
+}
+span.hidden{
+    display: none;
+}
+.visible{
+    display: block;
+}
